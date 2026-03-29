@@ -1,0 +1,6 @@
+{
+  "prompt": "A highly realistic photograph of a strange, irregular metal lock with a uniquely distorted key inserted into it. The key has an unnatural, overly complex shape with excessive grooves and bends, clearly designed only for this one lock. Around it, several normal standard locks are placed, where the key visibly does not fit. Natural lighting, shallow depth of field, cinematic realism, ultra detailed, 4k, no text, no symbols, no diagrams, no labels.",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A key perfectly shaped for one irregular lock but unusable elsewhere, representing a model that memorizes noise and fails to generalize."
+}
